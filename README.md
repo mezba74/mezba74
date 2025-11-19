@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Md Mezba</h1>
-<h3 align="center">aspiring Front-End Development learning react & modern web technologies</h3>
+<h3 align="center">aspiring Front-End Development Learning React & Modern Web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezba74&label=Profile%20views&color=0e75b6&style=flat" alt="mezba74" /> </p>
 
